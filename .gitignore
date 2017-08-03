@@ -13,6 +13,26 @@ gh-pages/example.js.map
 # Npm library
 # lib
 
+# tmp for npm test
+docker_test
+example
+fastxpub
+gh-pages
+src
+test
+test_helpers
+type
+webpack
+.babelrc
+.eslintrc
+.gitmodules
+.travis.yml
+karma.conf.js-bitcore
+karma.conf.js-discovery
+Makefile
+yarn.lock
+
+
 # Example directories
 example
 gh-pages
