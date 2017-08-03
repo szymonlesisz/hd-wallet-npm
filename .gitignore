@@ -1,0 +1,37 @@
+node_modules
+gh-pages/index.js
+gh-pages/index.js.map
+gh-pages/example.js
+gh-pages/discovery-worker.js
+gh-pages/socket-worker.js
+gh-pages/trezor-crypto.js
+gh-pages/example.js.map
+.idea
+.nyc_output
+
+
+# Npm library
+# lib
+
+# Example directories
+example
+gh-pages
+docker_test
+
+# Dependency directory
+node_modules
+
+# OSX
+.DS_Store
+
+# Editors
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs
+*.log
+.yarnclean
+.nyc_output
